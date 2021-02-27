@@ -1,0 +1,71 @@
+html, body {
+    height: 100%;
+    text-align:center;
+  }
+
+.leftsideleftsidehome{
+ background-color:#f4f9f9;   
+ height:100%;
+ position:fixed;
+}
+.rightside{
+    background-color:white;
+    height:100%;
+    text-align:center;
+    /* margin-top:20%; */
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 20%;
+ 
+}
+.ff{
+    height: 100%;
+}
+.maneeshpic{
+    border-radius: 100%;
+    width:50%;
+    height:40%;
+    margin-top: 5%;
+}
+.myname{
+    font-family: Fantasy;
+}
+.secf{
+    background-color:#f4f9f9;   
+ height:100%;
+}
+.kk{
+    height:100%; 
+}
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+  a{
+    text-decoration: none;
+  }
+  .subheads{
+    font-family: 'Brush Script MT', cursive;
+  }
+  td{
+font-size: small;
+  }
+  .tdcontact
+  {
+    font-size: large;
+  }
